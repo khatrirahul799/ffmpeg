@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata>
   <groupId>com.yourgroup</groupId>
-  <artifactId>ffmpeg-kit-min-gpl</artifactId>
+  <artifactId>ffmpeg-kit-full-gpl</artifactId>
   <versioning>
     <latest>6.0-2.LTS</latest>
     <versions>

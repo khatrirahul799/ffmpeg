@@ -2,9 +2,9 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.yourgroup</groupId>
-  <artifactId>ffmpeg-kit-min-gpl</artifactId>
+  <artifactId>ffmpeg-kit-full-gpl</artifactId>
   <version>6.0-2.LTS</version>
   <packaging>aar</packaging>
-  <name>ffmpeg-kit-min-gpl</name>
-  <description>FFmpeg Kit for Android - Min GPL</description>
+  <name>ffmpeg-kit-full-gpl</name>
+  <description>FFmpeg Kit for Android - Full GPL</description>
 </project>
